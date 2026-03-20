@@ -12,9 +12,7 @@ main:
    # url: /publications/
 
   - title: "Home" 
-     redirect_from: 
-     - /about/
-     - /about.html
+     url: https://jpedrogarcia8.github.io/josepgarcia.github.io/
   
   - title: "CV"
     url: /files/CV-JosePedroGarcia.pdf    
