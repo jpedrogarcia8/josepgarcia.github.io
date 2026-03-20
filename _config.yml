@@ -23,7 +23,7 @@ repository               : "josepgarcia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Picture.jpg"
   name             : "José Pedro Garcia"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher in Economics"
