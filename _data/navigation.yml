@@ -14,8 +14,8 @@ main:
   - title: "CV"
     url: /files/CV-JoseGarcia.pdf    
 
-  #- title: "Teaching"
-   # url: /teaching/    
+  - title: "Research"
+    url: /portfolio/    
     
   # - title: "Portfolio"
   # url: /portfolio/
