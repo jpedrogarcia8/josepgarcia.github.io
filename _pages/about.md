@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:24px; color=navy" >
+<span style="font-size:28px;color:navy" >
 Welcome!
 </span>
 
