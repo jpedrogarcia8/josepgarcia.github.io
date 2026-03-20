@@ -7,6 +7,6 @@ excerpt: ''
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: ''
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://jpedrogarcia8.github.io/josepgarcia.github.io/files/PaperJoseGarcia.pdf'
 ---
 Abstract here.
