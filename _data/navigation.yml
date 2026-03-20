@@ -12,7 +12,9 @@ main:
    # url: /publications/
 
   - title: "Home" 
-     url: "/about/"
+     redirect_from: 
+     - /about/
+     - /about.html
   
   - title: "CV"
     url: /files/CV-JosePedroGarcia.pdf    
